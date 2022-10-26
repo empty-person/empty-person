@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [LeagueEnhancer](https://github.com/empty-person/LeagueEnhancer)
 
-- 📫 How to reach me **zagnus'#5117**
+- 📫 How to reach me **asdfqwerr#0690**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
