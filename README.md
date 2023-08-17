@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on [LeagueEnhancer](https://github.com/empty-person/LeagueEnhancer)
+- 🔭 	~~ I’m currently working on [LeagueEnhancer](https://github.com/empty-person/LeagueEnhancer)	 ~~
 
-- 📫 How to reach me **asdfqwerr#0690**
+- 📫 How to reach me **_ghostling**
 
 
 
