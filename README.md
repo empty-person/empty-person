@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm empty-person</h1>
-<h3 align="center">A passionate Full Stack Developer from Seoul</h3>
+<h3 align="center">A passionate Full Stack Developer from Belarus</h3>
 
 
 
-- 🔭 	~~ I’m currently working on [LeagueEnhancer](https://github.com/empty-person/LeagueEnhancer)	 ~~
+- 🔭 	~~I’m currently working on [LeagueEnhancer](https://github.com/empty-person/LeagueEnhancer)~~
 
 - 📫 How to reach me **_ghostling**
 
